@@ -1,0 +1,15 @@
+body{
+background-color:red; 
+ background-image:url("../IMG/coche.jfif");
+ background-size: cover;
+}
+.Corvette{
+    width: 200px;
+}
+
+.inicio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inicio  
